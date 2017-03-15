@@ -1,0 +1,61 @@
+/* BODY */
+
+html {
+    -webkit-user-select: none;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: normal;
+}
+
+.body-day {
+    background: #f3f5f6;
+    color: #22272b;
+    text-decoration-color: #22272b;
+}
+
+.body-night {
+    background: #22272b;
+    color: #f3f5f6;
+    text-decoration-color: #f3f5f6;
+}
+
+
+/* TEXT AND SEPARATOR */
+
+.header {
+    display: flex;
+    height: auto;
+    width: 100%;
+    background: transparent;
+}
+
+.heading {
+    flex: 1 1;
+    text-decoration: underline;
+}
+
+.green {
+    color: #0e9d58;
+    font-weight: bold;
+}
+
+.separator {
+    display: flex;
+    height: 5px;
+    background: #0e9d58;
+}
+
+
+/* TABLE */
+
+table {
+    width: 100%;
+}
+
+td {
+    width: 50%;
+}
