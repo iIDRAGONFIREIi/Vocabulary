@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.byBjorn.Vocabulary" versionCode="12" version="1.2">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.byBjorn.Vocabulary" versionCode="13" version="1.3">
     <icon src="res/icon.png"/>
 
     <name>Vocabulary</name>
     <description>Vocabulary will show your vocabulary.</description>
     <author email="bjoerndragonfire@gmail.com">by Bjørn</author>
+
+    <preference name="Orientation" value="portrait" />
 </widget>
