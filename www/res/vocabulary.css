@@ -38,6 +38,10 @@ html {
     text-decoration: underline;
 }
 
+.underline {
+    text-decoration: underline;
+}
+
 .green {
     color: #0e9d58;
     font-weight: bold;
